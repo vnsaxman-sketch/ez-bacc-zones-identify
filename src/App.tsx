@@ -1822,15 +1822,17 @@ export default function App() {
 
         <div className="max-w-[1600px] mx-auto">
 
-          <h1 className="text-xl md:text-2xl font-bold">
+          <h1 className="text-xl md:text-1x1 font-bold">
             EZ Baccarat Zones Identify
             Training Simulation
           </h1>
 
           <p className="text-xs md:text-sm text-gray-300 mt-1">
-            EDUCATIONAL PURPOSE — Long Nguyen
+            EDUCATIONAL PURPOSES 
           </p>
-
+	  <p className="text-xs md:text-sm text-gray-300 mt-1">
+            Developed by: Long Nguyen
+          </p>
         </div>
 
       </header>
