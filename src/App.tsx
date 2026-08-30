@@ -1823,7 +1823,7 @@ export default function App() {
         <div className="max-w-[1600px] mx-auto">
 
           <h1 className="text-xl md:text-2xl font-bold">
-            EZ Baccarat — Zones Identifying
+            EZ Baccarat Zones Identify
             Training Simulation
           </h1>
 

@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss()],
-   base:"/ez-bacc-zones-identify/",
+   base:'/ez-bacc-zones-identify/',
 })
