@@ -1827,10 +1827,10 @@ export default function App() {
             Training Simulation
           </h1>
 
-          <p className="text-xs md:text-sm text-yellow-400 mt-1">
+          <p className="text-xs md:text-sm text-[#D4AF37] mt-1">
             EDUCATIONAL PURPOSES 
           </p>
-	  <p className="text-xs md:text-sm text-blue-500 mt-1">
+	  <p className="text-xs md:text-sm text-[#2563EB] mt-1">
           <br /> 
 	    Developed by: Long Nguyen
           </p>
